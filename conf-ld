@@ -1,5 +1,5 @@
-mips-openwrt-linux-gcc -s
+mips-openwrt-linux-gcc -s -static
 
-cc -s
+cc -s -static
 
 The first line will be used to link .o files into an executable.
