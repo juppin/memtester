@@ -1,0 +1,15 @@
+# auto generated files
+auto-ccld.sh
+compile
+extra-libs
+find-systype
+load
+make-compile
+make-load
+systype
+
+# build files
+*.o
+
+# compiled binarys
+memtester
